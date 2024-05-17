@@ -36,9 +36,6 @@ npm run build
 
 ## Misc
 
-Follow Maxwell Barvian: [X](https://x.com/mbarvian), [GitHub](https://github.com/barvian) 
+Follow Maxwell Barvian: [X](https://x.com/anelka_md), [GitHub](https://github.com/anelkamd) 
 
-Follow Codrops: [X](http://x.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
-
-## License
-[MIT](LICENSE)
+Follow Me : [Instagram](https://www.instagram.com/anelka.md)

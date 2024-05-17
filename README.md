@@ -4,8 +4,7 @@ Highly experimental CSS-only carousel variations that use the new [scroll-driven
 
 ![Thumbnail](https://tympanus.net/codrops/wp-content/uploads/2024/01/max_demo_optimized.gif)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=75188)
-
+credi @codrops
 [Demo](http://tympanus.net/Development/ScrollCarousel/)
 
 ## Installation
